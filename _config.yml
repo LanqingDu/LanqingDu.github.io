@@ -25,10 +25,11 @@ author:
   name             : "Lanqing Du"
   pronouns         : # example: "she/her"  
   bio              : |
-    Ph.D. Candidate (ABD)<br>
-    Operations and Business Analytics (BA concentration)<br>
-    MIS and Decision Sciences Department<br>
-    <img src="images/python.png" style="width: 20px; height: 20px;" /> <img src="images/matlab.svg" style="width: 20px; height: 20px;" />
+    <ul>
+      <li>Ph.D. Candidate (ABD)<br>
+      <li>Operations and Business Analytics (BA concentration)<br>
+      <li>MIS and Decision Sciences Department<br>
+      <img src="images/python.png" style="width: 20px; height: 20px;" /> <img src="images/matlab.svg" style="width: 20px; height: 20px;" />
  
   employer         : "Drexel University"
   location         : "Philadelphia, PA"

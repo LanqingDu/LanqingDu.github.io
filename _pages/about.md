@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Human-Tech Nexus "
+title: "Greetings!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Greetings!
 
 This is Lanqing Du, I'm a Ph.D. candidate (ABD) in the Decision Sciences and MIS department at [Drexel University](https://www.lebow.drexel.edu/faculty-research/schools-and-academic-departments/decision-sciences-and-mis).
 My research interests focus on employing both model-based and data-driven approaches to explore the applications and inform policy guidance relating to the human-tech nexus.
