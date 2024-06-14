@@ -25,7 +25,7 @@ author:
   name             : "Lanqing Du"
   pronouns         : # example: "she/her"  
   bio              : |
-    <ul>
+    <ul style="margin-left: -20px;">
       <li>Ph.D. Candidate (ABD)<br>
       <li>Operations and Business Analytics (BA concentration)<br>
       <li>MIS and Decision Sciences Department<br>
